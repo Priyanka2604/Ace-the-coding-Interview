@@ -11,15 +11,22 @@
  * @return {ListNode}
  */
 var removeElements = function(head, val) {
-    if(!head){
-        return head;
+    function rl(prev, head){
+        if(head==null){ //when entire linklist is traversed
+           return
+        }
+        else if(head.val==val){  //removing matching element's from in betweens
+            prev.next=head.next;
+            rl(prev,head.next);
+        }
+        else{
+            rl(head,head.next); // continue ahead if element is unmatched
+        } 
     }
-
-    if(head.val === val){
-        return removeElements(head.next, val);
-    }
-
-    head.next = removeElements(head.next, val);
     
+    while(head && head.val==val){   //removing matching element's from head
+        head=head.next; 
+    }
+    rl(null, head); //head set to first unmatched element
     return head;
 };
