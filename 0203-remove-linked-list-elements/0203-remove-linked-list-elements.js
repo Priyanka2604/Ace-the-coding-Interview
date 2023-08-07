@@ -15,15 +15,7 @@ var removeElements = function(head, val) {
         return head;
     }
 
-    let curr = head;
-
-    while(curr.next){
-        if(curr.next.val === val){
-            curr.next = curr.next.next;
-        } else {
-            curr = curr.next;
-        }
-    }
+    head.next = removeElements(head.next, val);
 
     return head.val === val ? head.next : head;
 };
