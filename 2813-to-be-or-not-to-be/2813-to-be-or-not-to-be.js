@@ -3,7 +3,7 @@
  * @return {Object}
  */
 var expect = function(val) {
-    let obj = {
+    return {
         toBe: function(val1){
             if(val1===val){
                 return true;
@@ -19,8 +19,6 @@ var expect = function(val) {
             }
         }
     }
-
-    return obj;
 };
 
 /**
