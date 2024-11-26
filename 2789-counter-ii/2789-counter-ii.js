@@ -3,13 +3,17 @@
  * @return { increment: Function, decrement: Function, reset: Function }
  */
 var createCounter = function(init) {
-    let i = 0;
+    n = Number(init);
     return {
-        increment: () => init + ++i,
-        decrement: () => init + --i,
-        reset: () => {
-            i = 0;
-            return init
+        increment: function(){
+            return ++n;
+        },
+        decrement: function(){
+            return --n;
+        },
+        reset: function(){
+            n = init;
+            return n;
         }
     }
 };
