@@ -5,13 +5,13 @@
 var createCounter = function(init) {
     n = Number(init);
     return {
-        increment: function(){
+        increment: ()=> {
             return ++n;
         },
-        decrement: function(){
+        decrement: ()=> {
             return --n;
         },
-        reset: function(){
+        reset: ()=> {
             n = init;
             return n;
         }
