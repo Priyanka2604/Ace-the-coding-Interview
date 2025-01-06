@@ -3,11 +3,7 @@
  * @return {Promise}
  */
 async function sleep(millis) {
-    let myPromise = new Promise(function(resolve, reject){
-        setTimeout(function() {resolve(millis);}, millis)
-    })
-
-    return myPromise.then((millis))
+    await new Promise(resolve => setTimeout(resolve, millis));
 }
 
 /** 
