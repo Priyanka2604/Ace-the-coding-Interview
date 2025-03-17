@@ -3,16 +3,12 @@
  * @return {number}
  */
 var singleNumber = function(nums) {
-    let mp = {};
+    let mp = new Map();
     for(let i=0; i<nums.length; i++) {
-        if(mp[nums[i]]){
-            mp[nums[i]]++;
-        } else{
-            mp[nums[i]] = 1;
-        }
+        mp.set(nums[i], (mp.get(nums[i]) || 0)+1);
     }
 
-    for(const [key, val] of Object.entries(mp)) {
+    for(const [key, val] of mp) {
         if(val === 1){
             return parseInt(key);
         }
