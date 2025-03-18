@@ -7,18 +7,11 @@ var sortColors = function(nums) {
     for(let i=0;i<nums.length;i++){
         if(nums[i]===0){ r++;}
         else if(nums[i]===1){ w++; }
-        else{ b++; }
     }
 
-    for(let i=0;i<r;i++){
-        nums[i] = 0;
-    }
-
-    for(let i=r;i<(r+w);i++){
-        nums[i] = 1;
-    }
-
-    for(let i=(r+w);i<nums.length;i++){
-        nums[i] = 2;
+    for(let i=0;i<nums.length;i++){
+        if(i<r){ nums[i] = 0; }
+        else if(i>=r && i<(r+w)){ nums[i] = 1; }
+        else{ nums[i] = 2; }
     }
 };
