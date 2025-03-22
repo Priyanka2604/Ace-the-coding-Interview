@@ -8,9 +8,8 @@ var twoSum = function(nums, target) {
     for(let i=0;i<nums.length;i++){
         if(mp.has(target-nums[i])){
             return [i, mp.get(target-nums[i])];
-        } else {
-            mp.set(nums[i],i);
         }
+        mp.set(nums[i],i);
     }
 
     return [-1, -1];
