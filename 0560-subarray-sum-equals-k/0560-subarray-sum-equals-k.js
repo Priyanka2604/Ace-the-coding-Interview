@@ -4,14 +4,21 @@
  * @return {number}
  */
 var subarraySum = function(nums, k) {
-    let c=0;
+    let sum=0, c=0;
+    let mp = new Map();
+    mp.set(0,1);
     for(let i=0;i<nums.length;i++){
-        let sum = 0;
-        for(let j=i;j<nums.length;j++){
-            sum += nums[j];
-            if(sum === k) c++;
+        sum += nums[i];
+        let rem = sum-k;
+        if(mp.has(rem)){
+            c += mp.get(rem);
         }
-
+        
+        if(mp.has(sum)){
+            mp.set(sum, mp.get(sum)+1);
+        } else{
+            mp.set(sum,1);
+        }
     }
     return c;
 };
