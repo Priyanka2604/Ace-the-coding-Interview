@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -82,5 +83,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
