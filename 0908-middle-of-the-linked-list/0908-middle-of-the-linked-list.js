@@ -10,17 +10,11 @@
  * @return {ListNode}
  */
 var middleNode = function(head) {
-    let c = 0;
-    var temp = head;
-    while(temp!==null){
-        c++;
-        temp = temp.next;
-    }
-    c = c%2==0?c/2:(c-1)/2;
-    temp = head;
-    while(c-->0){
-        temp = temp.next;
+    var slow = head, fast = head;
+    while(fast && fast.next && slow){
+        fast = fast.next.next;
+        slow = slow.next;
     }
 
-    return temp;
+    return slow;
 };
