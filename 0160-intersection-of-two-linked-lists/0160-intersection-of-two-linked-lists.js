@@ -13,13 +13,16 @@
  */
 var getIntersectionNode = function(headA, headB) {
     let tempA = headA;
+    let hs = new Set();
     while(tempA){
-        let tempB = headB;
-        while(tempB){
-            if(tempA === tempB){
+        hs.add(tempA);
+        tempA = tempA.next;
+    }
+
+    tempA = headB;
+    while(tempA){
+        if(hs.has(tempA)){
             return tempA;
-            }
-            tempB = tempB.next;
         }
         tempA = tempA.next;
     }
