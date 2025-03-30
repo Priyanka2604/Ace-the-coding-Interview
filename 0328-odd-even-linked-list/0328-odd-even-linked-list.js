@@ -11,7 +11,11 @@
  */
 var oddEvenList = function(head) {
     if(head===null || head.next===null) return head;
-    let odd = head, even = head.next, temp = even;
+
+    let odd = head;
+    let even = head.next;
+    let temp = even;
+
     while(even && even.next){
         odd.next = odd.next.next;
         even.next = even.next.next;
@@ -20,6 +24,5 @@ var oddEvenList = function(head) {
     }
     
     odd.next = temp;
-    
     return head;
  };
