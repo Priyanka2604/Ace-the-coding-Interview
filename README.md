@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0050-powx-n) |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0234-palindrome-linked-list) |
@@ -95,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0142-linked-list-cycle-ii) |
