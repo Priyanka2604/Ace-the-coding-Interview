@@ -11,19 +11,33 @@
  */
 var isPalindrome = function(head) {
     if(head===null || head.next===null) return true;
-    var temp = head;
-    let stack = [];
-    while(temp){
-        stack.push(temp.val);
-        temp = temp.next;
+    var slow = head, fast = head;
+    while(fast && fast.next){
+        slow = slow.next;
+        fast = fast.next.next;
     }
-
-    temp = head;
-    while(temp){
-        if(temp.val!==stack.pop()){
+    let newHead = reverseLL(slow);
+    slow = head, fast = newHead;
+    while(slow && fast){
+        if(slow.val!==fast.val){
             return false;
         }
-        temp = temp.next;
+        slow = slow.next;
+        fast = fast.next;
     }
+    // newHead = reverseLL(newHead);
+    // slow = newHead;
     return true;
 };
+
+var reverseLL = function(head) {
+    let temp = head, back = null;
+    while(temp){
+        let curr = temp.next;
+        temp.next = back;
+        back = temp;
+        temp = curr;
+    }
+
+    return back;
+}
