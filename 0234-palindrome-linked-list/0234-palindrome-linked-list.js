@@ -25,8 +25,7 @@ var isPalindrome = function(head) {
         slow = slow.next;
         fast = fast.next;
     }
-    // newHead = reverseLL(newHead);
-    // slow = newHead;
+    
     return true;
 };
 
