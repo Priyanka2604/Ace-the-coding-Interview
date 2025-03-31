@@ -20,12 +20,13 @@ var isPalindrome = function(head) {
     slow = head, fast = newHead;
     while(slow && fast){
         if(slow.val!==fast.val){
+            reverseLL(newHead);
             return false;
         }
         slow = slow.next;
         fast = fast.next;
     }
-    
+    reverseLL(newHead);
     return true;
 };
 
