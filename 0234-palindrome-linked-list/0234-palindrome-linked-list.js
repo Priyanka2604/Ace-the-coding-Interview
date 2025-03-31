@@ -10,24 +10,20 @@
  * @return {boolean}
  */
 var isPalindrome = function(head) {
-    if(head.val === null || head.next === null) return true;
-    let s = [];
-    let curr = head, c = 0;
-    while(curr){
-        s.push(curr.val)
-        curr = curr.next;
-        c++;
-    }
-    
-    curr = head;
-    c /= 2
-    while(c>0){
-        if(curr.val != s.pop()){
-            return false;
-        }
-        curr = curr.next;
-        c--;
+    if(head===null || head.next===null) return true;
+    var temp = head;
+    let stack = [];
+    while(temp){
+        stack.push(temp.val);
+        temp = temp.next;
     }
 
+    temp = head;
+    while(temp){
+        if(temp.val!==stack.pop()){
+            return false;
+        }
+        temp = temp.next;
+    }
     return true;
 };
