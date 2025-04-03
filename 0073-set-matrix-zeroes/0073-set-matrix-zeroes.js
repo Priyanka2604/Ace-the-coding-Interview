@@ -19,10 +19,7 @@ var setZeroes = function(matrix) {
     for(let i=0;i<m;i++){
         let n = matrix[i].length;
         for(let j=0;j<n;j++){
-            if(rowArr[i]===1){
-                matrix[i][j] = 0;
-            }
-            if(colArr[j]===1){
+            if(rowArr[i] || colArr[j]){
                 matrix[i][j] = 0;
             }
         }
