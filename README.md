@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0073-set-matrix-zeroes](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0189-rotate-array) |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0160-intersection-of-two-linked-lists) |
@@ -132,4 +134,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0145-binary-tree-postorder-traversal) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
