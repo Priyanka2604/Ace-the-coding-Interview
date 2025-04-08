@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0234-palindrome-linked-list) |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
