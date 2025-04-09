@@ -4,7 +4,6 @@
  * @return {number}
  */
 var minOperations = function(nums, k) {
-    nums.sort();
     let hs = new Set();
     for(let i=0;i<nums.length;i++){
         if(nums[i]<k) return -1;
