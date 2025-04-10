@@ -2,8 +2,21 @@ var MinStack = function () {
     this.stack = [];
 }
 
+class Pair{
+    constructor(val, min){
+        this.val = val;
+        this.min = min;
+    }
+}
+
 MinStack.prototype.push = function (val) {
-    this.stack.push(val)
+    let min;
+    if(!this.stack.length){
+        min = val;
+    } else {
+        min = Math.min(val, this.stack[this.stack.length-1].min);
+    }
+    this.stack.push(new Pair(val, min));
 }
 
 MinStack.prototype.pop = function (val) {
@@ -11,16 +24,9 @@ MinStack.prototype.pop = function (val) {
 }
 
 MinStack.prototype.top = function (val) {
-    return this.stack[this.stack.length - 1];
+    return this.stack[this.stack.length - 1].val;
 }
 
 MinStack.prototype.getMin = function (val) {
-    if (!this.stack.length) {
-        return 0;
-    }
-    let min = this.stack[0];
-    for (var i = 1; i < this.stack.length; i++) {
-        min = Math.min(min, this.stack[i])
-    }
-    return min;
+    return this.stack[this.stack.length - 1].min;
 }
