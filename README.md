@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0560-subarray-sum-equals-k) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Hash Table
