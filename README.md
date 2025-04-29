@@ -191,4 +191,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0455-assign-cookies) |
+## Database
+|  |
+| ------- |
+| [1415-students-and-examinations](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1415-students-and-examinations) |
 <!---LeetCode Topics End-->
