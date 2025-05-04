@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0136-single-number) |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0792-binary-search) |
 ## Bit Manipulation
