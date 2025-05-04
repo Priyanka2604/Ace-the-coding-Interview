@@ -3,15 +3,7 @@
  * @return {string}
  */
 var reverseWords = function(s) {
-    let a = s.split(" ");
-    let ans = "";
-    let n= a.length-1;
-    while(n>=0){
-        if(a[n]!==""){
-            ans += a[n]+" ";
-        }
-        n--;
-    }
-
-    return ans.trim();
+    let a = s.trim().split(/\s+/);
+    a.reverse();
+    return a.join(" ");
 };
