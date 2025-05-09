@@ -210,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0577-employee-bonus) |
+| [0596-classes-more-than-5-students](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0596-classes-more-than-5-students) |
 | [0620-not-boring-movies](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0620-not-boring-movies) |
 | [1155-product-sales-analysis-iii](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1155-product-sales-analysis-iii) |
 | [1161-project-employees-i](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1161-project-employees-i) |
