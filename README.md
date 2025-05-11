@@ -232,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1877-find-followers-count](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1942-primary-department-for-each-employee](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1942-primary-department-for-each-employee) |
+| [2057-count-salary-categories](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Binary Search Tree
