@@ -227,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1338-queries-quality-and-percentage](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1415-students-and-examinations) |
+| [1670-patients-with-a-condition](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1670-patients-with-a-condition) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1801-average-time-of-process-per-machine) |
 | [1811-fix-names-in-a-table](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1811-fix-names-in-a-table) |
