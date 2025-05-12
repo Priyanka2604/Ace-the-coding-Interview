@@ -213,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0196-delete-duplicate-emails](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0196-delete-duplicate-emails) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0577-employee-bonus) |
+| [0585-investments-in-2016](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0585-investments-in-2016) |
 | [0596-classes-more-than-5-students](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0596-classes-more-than-5-students) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0610-triangle-judgement](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0610-triangle-judgement) |
