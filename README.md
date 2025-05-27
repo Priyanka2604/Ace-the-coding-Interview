@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0792-binary-search) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/2656-count-the-number-of-beautiful-subarrays) |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0234-palindrome-linked-list) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1078-remove-outermost-parentheses) |
 ## Tree
 |  |
@@ -160,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -195,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Matrix
 |  |
 | ------- |
@@ -274,4 +278,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0450-delete-node-in-a-bst](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
