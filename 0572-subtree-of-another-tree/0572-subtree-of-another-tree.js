@@ -13,16 +13,12 @@
  */
 var isSubtree = function(root, subRoot) {
     if(!root) return subRoot===null;
-    if(isIdentical(root, subRoot)) return true;
-    return isSubtree(root.left, subRoot) || isSubtree(root.right, subRoot);
+    return isIdentical(root, subRoot) || isSubtree(root.left, subRoot) || isSubtree(root.right, subRoot);
 };
 
 function isIdentical(root, subRoot) {
     if(!root && !subRoot) return true;
-    if(!root || !subRoot) return false;
-    if(root.val !== subRoot.val){
-        return false;
-    }
+    if(!root || !subRoot || (root.val !== subRoot.val)) return false;
 
     return isIdentical(root.left, subRoot.left) && isIdentical(root.right, subRoot.right);
 }
