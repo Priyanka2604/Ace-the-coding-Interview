@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -283,4 +286,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
