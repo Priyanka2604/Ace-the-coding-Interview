@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1013-fibonacci-number) |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1078-remove-outermost-parentheses) |
@@ -107,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0268-missing-number) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/2656-count-the-number-of-beautiful-subarrays) |
@@ -307,4 +310,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0219-contains-duplicate-ii) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
