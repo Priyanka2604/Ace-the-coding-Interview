@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0141-linked-list-cycle) |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1078-remove-outermost-parentheses) |
@@ -295,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
