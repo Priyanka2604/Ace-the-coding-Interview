@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0908-middle-of-the-linked-list) |
 ## String
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0290-word-pattern) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0345-reverse-vowels-of-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
