@@ -4,23 +4,18 @@
  * @return {boolean}
  */
 var canConstruct = function(ransomNote, magazine) {
-    let hmp = new Map();
-    for(let i=0; i<magazine.length; i++){
-        if(hmp.has(magazine.at(i))){
-            hmp.set(magazine.at(i), hmp.get(magazine.at(i))+1);
-        } else {
-            hmp.set(magazine.at(i), 1);
+    const mag = [...magazine];
+    const note = [...ransomNote];
+
+    while(mag.length>0){
+        let c = mag.pop();
+        let indx = note.indexOf(c);
+        if(indx!==-1){
+            note.splice(indx, 1);
         }
     }
 
-    for(let i=0; i<ransomNote.length; i++){
-        if(hmp.has(ransomNote.at(i)) && hmp.get(ransomNote.at(i))>=1 ){
-            hmp.set(ransomNote.at(i), hmp.get(ransomNote.at(i))-1);
-            continue;
-        } else {
-            return false;
-        }
-    }
+    const ans = note.length ? false : true;
 
-    return true;
+    return ans;
 };
