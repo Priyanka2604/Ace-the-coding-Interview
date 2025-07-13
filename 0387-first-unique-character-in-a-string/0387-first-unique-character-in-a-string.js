@@ -9,7 +9,7 @@ var firstUniqChar = function(s) {
     }
 
     for(let i=0; i<s.length; i++){
-        if(mp[s.at(i)] === 1){
+        if(mp[s[i]] === 1){
             return i;
         }
     }
