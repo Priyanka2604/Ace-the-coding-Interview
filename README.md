@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0908-middle-of-the-linked-list) |
 ## String
@@ -54,12 +55,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0392-is-subsequence) |
 | [1078-remove-outermost-parentheses](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0392-is-subsequence](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
