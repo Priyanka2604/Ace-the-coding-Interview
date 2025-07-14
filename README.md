@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0171-excel-sheet-column-number](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1013-fibonacci-number](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/2050-count-good-numbers) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1078-remove-outermost-parentheses](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 ## Sorting
 |  |
