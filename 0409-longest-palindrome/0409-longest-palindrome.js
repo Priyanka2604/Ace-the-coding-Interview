@@ -12,11 +12,7 @@ var longestPalindrome = function(s) {
 
     let c = 0;
     for(const x of mp.values()){
-        if(x%2===0){
-            c += x;
-        } else {
-            c += x-1;
-        }
+        c += x%2===0 ? x : x-1;
     }
 
     return c < s.length ? c+1 : c;
