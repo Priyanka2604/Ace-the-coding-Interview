@@ -3,6 +3,7 @@
  * @return {number}
  */
 var longestPalindrome = function(s) {
+    if(s.length<=1) return s.length;
     let mp = new Map();
 
     for(const i in s){
