@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/2050-count-good-numbers) |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0415-add-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
@@ -345,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0415-add-strings) |
 ## Counting
 |  |
 | ------- |
