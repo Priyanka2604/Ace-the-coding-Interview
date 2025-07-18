@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0434-number-of-segments-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
