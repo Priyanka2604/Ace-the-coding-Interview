@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0434-number-of-segments-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0459-repeated-substring-pattern) |
 | [1078-remove-outermost-parentheses](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
@@ -341,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
