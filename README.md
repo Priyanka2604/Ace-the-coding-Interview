@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0594-longest-harmonious-subsequence) |
 | [0792-binary-search](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0792-binary-search) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0594-longest-harmonious-subsequence) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Binary Search
@@ -157,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0455-assign-cookies) |
+| [0594-longest-harmonious-subsequence](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0594-longest-harmonious-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -355,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0594-longest-harmonious-subsequence) |
 ## Simulation
 |  |
 | ------- |
@@ -365,4 +369,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0383-ransom-note](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
