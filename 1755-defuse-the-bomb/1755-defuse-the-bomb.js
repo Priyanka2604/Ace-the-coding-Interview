@@ -4,27 +4,23 @@
  * @return {number[]}
  */
 var decrypt = function(code, k) {
-    const decode = (code, k) => {
-        const res = new Array(code.length).fill(0);
-        let sum = 0;
+    const n = code.length;
+    const res = new Array(n).fill(0);
+    if(k === 0) return res;
 
-        for(let i = 0; i< k; i++){
-            sum += code[i];
-        }
+    let sum = 0;
+    const start = k > 0 ? 1 : n + k;
+    const end = k > 0 ? k : n - 1;
 
-        for(let i = 0; i < code.length; i++){
-            sum = sum - code[i] + code[(i+k) % code.length];
-            res[i] = sum;
-        }
-
-        return res;
+    for(let i = start; i <= end; i++){
+        sum += code[i % n];
     }
 
-    return k > 0 ? decode(code, k) : decode(code.reverse(), -k).reverse();
-};
+    for(let i = 0; i < n; i++){
+        res[i] = sum;
+        sum -= code[(start + i) % n];
+        sum += code[(end + i + 1) % n]
+    }
 
-/**
-5 7 1 4.     2, -2.   4 1 7 5
-8 5 9 12.             8 12 9 5
-5 9 12 8              5 9 12 8
- */
+    return res;
+};
