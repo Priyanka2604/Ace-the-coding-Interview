@@ -4,13 +4,15 @@
  */
 var findLHS = function(nums) {
     nums.sort( (a, b) => a - b);
-    let j = 0, maxLen = 0;
+    let i = 0, j = 1, maxLen = 0;
 
-    for(let i = 0; i < nums.length; i++) {
-        while(nums[i] - nums[j] > 1) j++;
-        if(nums[i] - nums[j] === 1) {
-            maxLen = Math.max(maxLen, i - j + 1);
+    while(j < nums.length){
+        if(nums[j] - nums[i] === 1) {
+            maxLen = Math.max(maxLen, j - i + 1);
+            j++;
         }
+        else if(nums[j] - nums[i] === 0) { j++; }
+        else { i++; }
     }
 
     return maxLen;
