@@ -6,17 +6,13 @@
 var longestNiceSubstring = function(s) {
     if(s.length < 2) return "";
 
-    const obj = {};
-
-    for(const i of s) obj[i] = i;
+    const strSet = new Set(s);
 
     for(let i = 0; i < s.length; i++){
-        const item = s[i];
+        if(strSet.has(s[i].toUpperCase()) && strSet.has(s[i].toLowerCase())) continue;
 
-        if(obj[item.toUpperCase()] && obj[item.toLowerCase()]) continue;
-
-        const left = longestNiceSubstring(s.substring(0, i));
-        const right = longestNiceSubstring(s.substring(i + 1));
+        const left = longestNiceSubstring(s.slice(0, i));
+        const right = longestNiceSubstring(s.slice(i + 1));
 
         return left.length >= right.length ? left : right;
 
