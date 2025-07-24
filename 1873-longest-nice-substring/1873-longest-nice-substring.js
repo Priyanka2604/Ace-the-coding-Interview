@@ -1,34 +1,26 @@
-// Brute force
+// Recursion 
 /**
  * @param {string} s
  * @return {string}
  */
 var longestNiceSubstring = function(s) {
-    let maxLen = 0;
-    let ans = "";
+    if(s.length < 2) return "";
+
+    const obj = {};
+
+    for(const i of s) obj[i] = i;
 
     for(let i = 0; i < s.length; i++){
-        for(let j = i + 1; j <= s.length; j++){
-            let substr = s.slice(i, j);
+        const item = s[i];
 
-            //check if nice substring
-            if(isNiceString(substr) && substr.length > maxLen){
-                maxLen = substr.length;
-                ans = substr;
-            }
-        }
+        if(obj[item.toUpperCase()] && obj[item.toLowerCase()]) continue;
+
+        const left = longestNiceSubstring(s.substring(0, i));
+        const right = longestNiceSubstring(s.substring(i + 1));
+
+        return left.length >= right.length ? left : right;
+
     }
 
-    return ans;
+    return s;
 };
-
-function isNiceString(str) {
-    const strSet = new Set(str);
-
-    for(const char of strSet){
-        if(!strSet.has(char.toUpperCase()) || !strSet.has(char.toLowerCase())){
-            return false;
-        }
-    }
-    return true;
-}
