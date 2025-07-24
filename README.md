@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0459-repeated-substring-pattern](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0500-keyboard-row) |
 | [1078-remove-outermost-parentheses](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1078-remove-outermost-parentheses) |
+| [1873-longest-nice-substring](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1873-longest-nice-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0500-keyboard-row](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0594-longest-harmonious-subsequence) |
+| [1873-longest-nice-substring](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1873-longest-nice-substring) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Binary Search
@@ -151,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1873-longest-nice-substring](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1873-longest-nice-substring) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 ## Sorting
 |  |
@@ -363,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0643-maximum-average-subarray-i) |
 | [1755-defuse-the-bomb](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1755-defuse-the-bomb) |
+| [1873-longest-nice-substring](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1873-longest-nice-substring) |
 ## Simulation
 |  |
 | ------- |
@@ -374,4 +378,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0594-longest-harmonious-subsequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1873-longest-nice-substring](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1873-longest-nice-substring) |
 <!---LeetCode Topics End-->
