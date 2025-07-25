@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0792-binary-search) |
+| [1039-find-the-town-judge](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1039-find-the-town-judge) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1755-defuse-the-bomb](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1755-defuse-the-bomb) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0500-keyboard-row](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0594-longest-harmonious-subsequence) |
+| [1039-find-the-town-judge](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1039-find-the-town-judge) |
 | [1873-longest-nice-substring](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1873-longest-nice-substring) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -382,4 +384,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1873-longest-nice-substring](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1873-longest-nice-substring) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
