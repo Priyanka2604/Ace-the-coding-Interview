@@ -2,10 +2,4 @@
  * @param {number[][]} edges
  * @return {number}
  */
-var findCenter = function(edges) {
-    if(edges[0][0] == edges[1][0] || edges[0][0] == edges[1][1]){
-        return edges[0][0];
-    }
-
-    return edges[0][1];
-};
+var findCenter = (edges) => (edges[0][0] === edges[1][0] || edges[0][0] === edges[1][1] ? edges[0][0] : edges[0][1]);
