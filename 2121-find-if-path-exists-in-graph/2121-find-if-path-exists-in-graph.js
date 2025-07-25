@@ -6,33 +6,31 @@
  * @return {boolean}
  */
 var validPath = function(n, edges, source, destination) {
-    const graph = new Map();
+    // Initialize parent array where each node is its own parent
+    const parent = new Array(n).fill(0).map((_, i) => i);
 
-    // Build adjacency list
-    for (const [a, b] of edges) {
-        if (!graph.has(a)) graph.set(a, []);
-        if (!graph.has(b)) graph.set(b, []);
-        graph.get(a).push(b);
-        graph.get(b).push(a);
-    }
-
-    const visited = new Array(n).fill(false);
-    const queue = [source];
-    visited[source] = true;
-
-    let head = 0;
-
-    while (head < queue.length) {
-        const node = queue[head++];
-        if (node === destination) return true;
-
-        for (const neighbor of graph.get(node)) {
-            if (!visited[neighbor]) {
-                visited[neighbor] = true;
-                queue.push(neighbor);
-            }
+    // Find with path compression
+    const find = (x) => {
+        if (parent[x] !== x) {
+            parent[x] = find(parent[x]);
         }
+        return parent[x];
+    };
+
+    // Union by setting parent of root of one to another
+    const union = (x, y) => {
+        const rootX = find(x);
+        const rootY = find(y);
+        if (rootX !== rootY) {
+            parent[rootX] = rootY;
+        }
+    };
+
+    // Build connected components
+    for (const [a, b] of edges) {
+        union(a, b);
     }
 
-    return false;
+    // Check if source and destination are in the same component
+    return find(source) === find(destination);
 };
