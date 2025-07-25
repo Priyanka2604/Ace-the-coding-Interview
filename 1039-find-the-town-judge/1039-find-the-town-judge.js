@@ -12,7 +12,7 @@ var findJudge = function(n, trust) {
         outDegree[i[0]]++;
     }
 
-    for(let i = 1; i <= n; ++i){
+    for(let i = 1; i <= n; i++){
         if(inDegree[i] === n-1 && outDegree[i] === 0){
             return i;
         }
