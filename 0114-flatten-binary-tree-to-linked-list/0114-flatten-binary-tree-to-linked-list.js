@@ -11,7 +11,7 @@
  * @return {void} Do not return anything, modify root in-place instead.
  */
 var flatten = function(root) {
-    if(!root) return root;
+    if(!root) return;
     let curr = root;
     while(curr){
         if(curr.left){
@@ -29,5 +29,5 @@ var flatten = function(root) {
         curr = curr.right; // Move to the next node
     }
 
-    return root;
+    return;
 };
