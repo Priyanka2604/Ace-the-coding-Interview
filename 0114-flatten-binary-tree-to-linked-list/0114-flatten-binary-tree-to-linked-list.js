@@ -11,20 +11,22 @@
  * @return {void} Do not return anything, modify root in-place instead.
  */
 var flatten = function(root) {
-    let prev = null;
-
-    function flattenTree(node){
-        if(!node) return;
-
-        flattenTree(node.right);
-        flattenTree(node.left);
-
-        node.right = prev;
-        node.left = null;
-        prev = node;
+    if(!root) return root;
+    let st = [];
+    st.push(root);
+    while(st.length){
+        curr = st.pop();
+        if(curr.right){
+            st.push(curr.right);
+        }
+        if(curr.left){
+            st.push(curr.left);
+        }
+        if(st.length){
+            curr.right = st[st.length - 1];
+        }
+        curr.left = null;
     }
 
-    flattenTree(root);
-
-    return;
+    return root;
 };
