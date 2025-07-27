@@ -12,20 +12,21 @@
  */
 var flatten = function(root) {
     if(!root) return root;
-    let st = [];
-    st.push(root);
-    while(st.length){
-        curr = st.pop();
-        if(curr.right){
-            st.push(curr.right);
-        }
+    let curr = root;
+    while(curr){
         if(curr.left){
-            st.push(curr.left);
+            // Find the rightmost node of the left subtree
+            let prev = curr.left;
+            while(prev.right){
+                prev = prev.right;
+            }
+            // Connect the right subtree to the rightmost node
+            prev.right = curr.right;
+            // Move the left subtree to the right
+            curr.right = curr.left;
+            curr.left = null; // Set left to null
         }
-        if(st.length){
-            curr.right = st[st.length - 1];
-        }
-        curr.left = null;
+        curr = curr.right; // Move to the next node
     }
 
     return root;
