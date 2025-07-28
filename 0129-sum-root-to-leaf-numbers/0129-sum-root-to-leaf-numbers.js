@@ -11,22 +11,17 @@
  * @return {number}
  */
 var sumNumbers = function(root) {
-    let totalSum = 0;
-
     function dfs(root, curr){
-        if(!root) return;
+        if(!root) return 0;
 
         curr = curr * 10 + root.val;
 
         if(!root.left && !root.right){
-            totalSum += curr;
-            return;
+            return curr;
         }
 
         return dfs(root.left, curr) + dfs(root.right, curr);
     }
 
-    dfs(root, 0);
-    return totalSum;
-    
+    return dfs(root, 0);
 };
