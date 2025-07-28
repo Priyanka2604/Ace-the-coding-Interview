@@ -15,11 +15,11 @@ var sumNumbers = function(root) {
         if(!root) return 0;
 
         curr = curr * 10 + root.val;
-
+        // If it's a leaf node
         if(!root.left && !root.right){
             return curr;
         }
-
+        // Recursive calls to left and right subtrees
         return dfs(root.left, curr) + dfs(root.right, curr);
     }
 
