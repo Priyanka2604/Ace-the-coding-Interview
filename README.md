@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0200-number-of-islands) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0142-linked-list-cycle-ii) |
@@ -429,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0200-number-of-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/2121-find-if-path-exists-in-graph) |
 ## Backtracking
