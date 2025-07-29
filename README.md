@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0455-assign-cookies) |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0560-subarray-sum-equals-k) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 ## Linked List
