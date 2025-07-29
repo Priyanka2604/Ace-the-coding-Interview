@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1013-fibonacci-number) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0128-longest-consecutive-sequence) |
@@ -424,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0053-maximum-subarray) |
 | [1873-longest-nice-substring](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1873-longest-nice-substring) |
 ## Graph
 |  |
