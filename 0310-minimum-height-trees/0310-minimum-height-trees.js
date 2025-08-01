@@ -8,16 +8,16 @@ var findMinHeightTrees = function(n, edges) {
     if(n <= 2) return [...Array(n).keys()];
 
     // Step 1: Build adjacency list
-    const adj = Array.from({ length: n }, () => []);
+    const adj = Array.from({ length: n }, () => new Set());
     for(const [u, v] of edges) {
-        adj[u].push(v);
-        adj[v].push(u);
+        adj[u].add(v);
+        adj[v].add(u);
     }
 
     // Step 2: Identify initial leaves
     let leaves = [];
     for(let i=0; i<n; i++){
-        if(adj[i].length === 1) leaves.push(i); // Nodes with degree 1
+        if(adj[i].size === 1) leaves.push(i); // Nodes with degree 1
     }
 
     // Step 3: Trim leaves iteratively
@@ -26,9 +26,9 @@ var findMinHeightTrees = function(n, edges) {
         const newLeaves = [];
 
         for(const leaf of leaves) {
-            const neighbor = adj[leaf].pop(); // // Remove leaf from its neighbor
-            adj[neighbor] = adj[neighbor].filter((node) => node !== leaf); // Remove leaf reference
-            if(adj[neighbor].length === 1) newLeaves.push(neighbor); // Add new leaf
+            const neighbor = [...adj[leaf]][0]; // // Remove leaf from its neighbor
+            adj[neighbor].delete(leaf) // Remove leaf reference
+            if(adj[neighbor].size === 1) newLeaves.push(neighbor); // Add new leaf
         }
 
         leaves = newLeaves; // Update leaves for the next iteration
