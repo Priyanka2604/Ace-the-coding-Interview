@@ -275,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0572-subtree-of-another-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/2121-find-if-path-exists-in-graph) |
+| [2793-count-the-number-of-complete-components](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -336,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0310-minimum-height-trees](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0547-number-of-provinces) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/2121-find-if-path-exists-in-graph) |
+| [2793-count-the-number-of-complete-components](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/2793-count-the-number-of-complete-components) |
 ## Greedy
 |  |
 | ------- |
@@ -448,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1039-find-the-town-judge](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/2121-find-if-path-exists-in-graph) |
+| [2793-count-the-number-of-complete-components](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/2793-count-the-number-of-complete-components) |
 ## Union Find
 |  |
 | ------- |
@@ -455,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0547-number-of-provinces) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/2121-find-if-path-exists-in-graph) |
+| [2793-count-the-number-of-complete-components](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/2793-count-the-number-of-complete-components) |
 ## Backtracking
 |  |
 | ------- |
