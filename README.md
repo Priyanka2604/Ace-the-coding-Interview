@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0792-binary-search) |
+| [1036-rotting-oranges](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1039-find-the-town-judge) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1755-defuse-the-bomb](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1755-defuse-the-bomb) |
@@ -308,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0200-number-of-islands) |
+| [1036-rotting-oranges](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1036-rotting-oranges) |
 ## Design
 |  |
 | ------- |
@@ -336,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1036-rotting-oranges) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/2793-count-the-number-of-complete-components) |
 ## Greedy
