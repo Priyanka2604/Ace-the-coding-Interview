@@ -4,23 +4,13 @@
  */
 var findCircleNum = function(isConnected) {
     let n = isConnected.length;
-    let adj = Array.from({ length:n }, () => []);
-
-    for(let i=0; i<n; i++){
-        for(let j=0; j<n; j++){
-            if(isConnected[i][j] === 1 && i !== j){
-                adj[i].push(j);
-                adj[j].push(i);
-            }
-        }
-    }
 
     let visited = new Array(n).fill(0);
 
     function dfs(node){
         visited[node] = 1;
-        for(let neighbor of adj[node]){
-            if(!visited[neighbor]){
+        for (let neighbor = 0; neighbor < n; neighbor++) {
+            if (isConnected[node][neighbor] === 1 && !visited[neighbor]) {
                 dfs(neighbor);
             }
         }
