@@ -1,3 +1,4 @@
+// Solution 1 - BFS
 /**
  * @param {number[][]} image
  * @param {number} sr
@@ -10,7 +11,7 @@ var floodFill = function(image, sr, sc, color) {
     let cols = image[0].length;
     const currColor = image[sr][sc];
     if(currColor === color) return image;
-    let directions = [[-1,0], [1,0], [0,-1], [0,1]];
+    let directions = [[-1,0], [1,0], [0,-1], [0,1]]; // Up, down, left, right
     let q = [[sr,sc]];
 
 
