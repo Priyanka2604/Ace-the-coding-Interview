@@ -1,4 +1,4 @@
-// Solution 1 - BFS
+// Solution 2 - DFS
 /**
  * @param {number[][]} image
  * @param {number} sr
