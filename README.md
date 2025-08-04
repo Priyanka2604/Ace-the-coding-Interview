@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1039-find-the-town-judge) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1073-number-of-enclaves](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1073-number-of-enclaves) |
 | [1755-defuse-the-bomb](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1755-defuse-the-bomb) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -277,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1073-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
@@ -313,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1073-number-of-enclaves) |
 ## Design
 |  |
 | ------- |
@@ -343,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1073-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/2793-count-the-number-of-complete-components) |
 ## Greedy
@@ -464,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1073-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/2793-count-the-number-of-complete-components) |
 ## Backtracking
