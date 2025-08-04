@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0392-is-subsequence) |
+| [0542-01-matrix](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0500-keyboard-row) |
+| [0542-01-matrix](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0643-maximum-average-subarray-i) |
@@ -313,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1073-number-of-enclaves) |
@@ -343,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0310-minimum-height-trees) |
+| [0542-01-matrix](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1036-rotting-oranges) |
