@@ -3,13 +3,14 @@
  * @return {number}
  */
 var climbStairs = function(n) {
-    let dp = new Array(n+1).fill(-1);
-
-    function fibo(n){
-        if(n<=1) return 1;
-        if(dp[n]!==-1) return dp[n];
-        return dp[n] = fibo(n-2) + fibo(n-1);
+    let prev2 = 0;
+    let prev = 1;
+    let curr = 0;
+    for(let i=0; i<n; i++){
+        curr = prev2 + prev;
+        prev2 = prev;
+        prev = curr;
     }
-    
-    return fibo(n);
+
+    return prev;
 };
