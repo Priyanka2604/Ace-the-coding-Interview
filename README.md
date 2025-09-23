@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0189-rotate-array) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0542-01-matrix) |
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
