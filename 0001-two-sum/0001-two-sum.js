@@ -13,4 +13,5 @@ var twoSum = function(nums, target) {
     }
 
     return [-1,-1];
+    // https://i.postimg.cc/fL42mSVN/IMG-1014.jpg
 };
