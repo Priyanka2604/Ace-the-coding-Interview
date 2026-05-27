@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0168-excel-sheet-column-title) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0088-merge-sorted-array) |
