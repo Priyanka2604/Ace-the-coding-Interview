@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0219-contains-duplicate-ii) |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0242-valid-anagram) |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0389-find-the-difference) |
@@ -455,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0594-longest-harmonious-subsequence) |
@@ -463,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/0169-majority-element) |
 | [1873-longest-nice-substring](https://github.com/Priyanka2604/Ace-the-coding-Interview/tree/master/1873-longest-nice-substring) |
 ## Graph
 |  |
